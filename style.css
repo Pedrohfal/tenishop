@@ -73,7 +73,7 @@ header {
     width: 100%;
 }
 
-header img {}
+ 
 
 #divBusca {
     padding: 10px;
@@ -97,5 +97,6 @@ header img {}
     width: 100%;
     max-width: 200px;
     display: block;
-
+    border-radius: 40px;
 }
+
