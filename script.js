@@ -1,4 +1,4 @@
-const btm = document.querySelector(".test")
-btm.addEventListener("click",()=> {
-    alert("")
+const btn = document.querySelectorAll('.test')
+btn.addEventListener('click', () => {
+    alert('tu compro')
 })
